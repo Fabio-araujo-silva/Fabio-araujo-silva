@@ -15,4 +15,4 @@
 <!----
 <h3 align="left">Ofensiva🔥:</h3>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=fabio-araujo-silva)](https://git.io/streak-stats)---->
+[![GitHub Streak](https://streak-stats.demolab.com?user=fabio-araujo-silva)](https://git.io/streak-stats)

@@ -1,7 +1,7 @@
 <h1 align="center">Hey! I'm Fabio Araujo :grin: </h1>
 <h3 align="center">I'm a student of back-end developer exploring Software Engineering</h3>
 
-- 🔭 I’m currently studying Science Computer on [UFMA - Federal University of Maranhão](https://portalpadrao.ufma.br/)
+- 🔭 I’m currently studying Computer Science at [UFMA - Federal University of Maranhão](https://portalpadrao.ufma.br/)
 
 - 🌱 I’m currently learning **C** and **PHP**
 

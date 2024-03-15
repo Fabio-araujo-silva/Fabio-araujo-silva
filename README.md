@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying Computer Science at [UFMA - Federal University of Maranhão](https://portalpadrao.ufma.br/)
 
-- 🌱 I’m currently learning **C** and **PHP**
+- 🌱 Learning **C** and **PHP**
 
 <h3 align="left">Languages and Tools👨‍💻:</h3>
 

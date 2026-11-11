@@ -15,7 +15,7 @@
 | [AiFood](https://github.com/PedroSarni/HackFood-2026) | WhatsApp shopping assistant on iFood's official MCP, 550+ tests | Python, Modal, React |
 | [handwrite_bot](https://github.com/Fabio-araujo-silva/handwrite_bot) | Markdown/LaTeX → handwritten pages (VATr++), GPU endpoint + WhatsApp bot | Python, PyTorch, Modal |
 | [mybandecopal](https://github.com/Fabio-araujo-silva/mybandecopal) | USP cafeteria menu with calories and macros — [live](https://mybandecopal.vercel.app) | JavaScript, Vercel |
-| [mathsidian-web](https://github.com/Fabio-araujo-silva/mathsidian-web) | Math notes with real LaTeX, in the cloud | TypeScript |
+| [mathsidian-web](https://github.com/Fabio-araujo-silva/mathsidian-web) | Math notes with real LaTeX, in the cloud, built on a decompiled Obsidian | TypeScript |
 | [corta-anuncio-l](https://github.com/Fabio-araujo-silva/corta-anuncio-l) | Chrome extension that hides L-shaped ads in YouTube live streams | JavaScript |
 
 ### Tools

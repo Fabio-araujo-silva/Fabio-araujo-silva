@@ -3,8 +3,6 @@
 
 - 🎓 B.S. in Data Science at ICMC, University of São Paulo (expected Dec 2027)
 - 🚀 Co-founder of **Plumaa**, a healthtech for corporate mental health. I built an AI operator for our recruiting funnel: 1,234 applications handled by one person, demo show-up from 21% to 68%, every email human-reviewed
-- 📄 Co-author of *Fake News Detection in Portuguese Under LLM-Generated Content* ([JBCS, 2025](https://doi.org/10.5753/jbcs.2025.5525))
-- 🏆 SEMCOMP × iFood Hackathon 2026: main developer of [AiFood](https://github.com/PedroSarni/HackFood-2026), a WhatsApp shopping agent on iFood's MCP
 - 🌏 Portuguese (native) · English (C2) · learning Mandarin (HSK 3)
 
 ### Featured projects

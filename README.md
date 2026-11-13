@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Fabio Araujo</h1>
 <p align="center"><b>Data Science @ USP · Co-founder @ Plumaa · I build supervised AI workflows that take manual work out of operations</b></p>
 
-- 🎓 B.S. in Data Science at ICMC, University of São Paulo (expected Dec 2027)
+- 🎓 B.S. in Data Science at ICMC, University of São Paulo (expected Dec 2028)
 - 🚀 Co-founder of **Plumaa**, a healthtech for corporate mental health. I built an AI operator for our recruiting funnel: 1,234 applications handled by one person, demo show-up from 21% to 68%, every email human-reviewed
 - 🌏 Portuguese (native) · English (C2) · learning Mandarin (HSK 3)
 

@@ -9,6 +9,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
+| [pontusca](https://github.com/Fabio-araujo-silva/pontusca) | Live scoreboard for college sports: multiple logged-in scorekeepers, real-time fan feed, overall standings | TypeScript, NestJS, Socket.IO, React |
 | [maquina-de-reels](https://github.com/Fabio-araujo-silva/maquina-de-reels) | Prompt → narrated vertical video, run by AI agents | Node, Claude/OpenAI APIs, HyperFrames |
 | [AiFood](https://github.com/PedroSarni/HackFood-2026) | WhatsApp shopping assistant on iFood's official MCP, 550+ tests | Python, Modal, React |
 | [handwrite_bot](https://github.com/Fabio-araujo-silva/handwrite_bot) | Markdown/LaTeX → handwritten pages (VATr++), GPU endpoint + WhatsApp bot | Python, PyTorch, Modal |
